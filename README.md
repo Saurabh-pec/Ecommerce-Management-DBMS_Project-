@@ -75,8 +75,23 @@ For more clear view, click here
 | seller   |sellerId (PK)<br>Name<br>Phone<br>Total_Sales                                      | Simple<br>Simple<br>Multivalued<br>Derived                        |Strong     |
 | Payment  |payment_id<br>Order_OrderId<br>PaymentMode<br>Customer_CustomerId<br>PaymentDate   | Simple<br>Simple<br>Simple<br>Simple<br>Simple                    |Strong     |
 
+### 5. ER-Diagram
+![ER-Diagram img](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
+for more clear view, click here
+[ER Diagram pdf](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ECommerce.pdf)
 
-
+### 6. QUERIES ON THE ABOVE RELATIONAL SCHEMA
+- 1.Stored procedure for the details of the customer.
+- 2.View for getting sales by category of products.
+- 3.Using triggers to update the no.of products as soon as the payment is made.
+- 4. Trigger to update the total amount of user everytime he adds something to payment table
+- 5.Stored procedure for getting order history.
+- 6.Processing an order
+ -  To process an order, one should check whether those items are in stock.
+ -  If items are in stock, they need to be reserved so that they go in hands of those who have expressed them in wishlist/order.
+ - Once ordered the available quantity must be reduced to reflect the correct value in the stock. 
+ - Any items not in stock cannot be sanctioned; this requires confirmation from the seller. 
+ - The customer needs to be informed as to which items are in stock (and can be shipped immediately) and which are cancelled.
 
 
 
