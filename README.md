@@ -63,8 +63,18 @@ For more clear view, click here
 
 ### 4. Entities and their Attributes
 
- ENTITIES | Customer | Order | OrderItem | Product | Review | Cart | Category | seller | Payment | 
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+| ENTITIES      |  ATTRIBUTES                                                       |  ATTRIBUTE TYPE                                                   |    Entity Type |       
+| ------------- |:-------------:                                                    | -----:                                                            | -------------  |
+| Customer      |Customer_CustomerId<br>Name<br>Email<br>DateOfBirth<br>Phone<br>Age| Simple<br>Composite<br>Simple<br>Simple<br>Multivalued<br>Derived |     Strong     |   
+|Order          |OrderId<br>ShippingDate<br>OrderDate<br>OrderAmount<br>Cart_CartID |Simple<br>Simple<br>Simple<br>Simple<br>Simple                     |     Strong     |  
+|OrderItem      |Order_OrderId (PK)<br>Product_ProductId(FK)<br>MRP<br>Quantity     |Simple<br>Simple<br>Simple<br>Simple                               |      Weak      |   
+|Product        |    a                                                              |   c                                                               |   fdf          |   
+|Review         |    a                                                              |   c                                                               |   fdf          |  
+|Cart           |    a                                                              |   c                                                               |   fdf          |  
+|Category       |    a                                                              |   c                                                               |   fdf          | 
+|seller         |    a                                                              |   c                                                               |   fdf          |  
+|Payment        |    a                                                              |   c                                                               |   fdf          | 
+
 
 
 | Tables        | Are           | Cool  |
@@ -72,6 +82,7 @@ For more clear view, click here
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
 
 
 
