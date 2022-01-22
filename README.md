@@ -31,8 +31,8 @@ In this new modern era of online shopping no seller wants to be left behind and 
 Therefore, as an software engineer our job is to ease the path of this transition for the seller.
 Amongst many things that an online site requires the most important is a database system. Hence in this project we are planning to design a database where small sellers can sell their product online.
 
-The Prime Objective of our database project is to design a robust E-commerce database by performing operations such as
-  -Viewing orders 
+**The Prime Objective of our database project is to design a robust E-commerce database by performing operations such as**
+ >Viewing orders 
   -Placing orders 
   -Updating database 
   -Reviewing products 
