@@ -56,7 +56,11 @@ The Prime Objective of our database project is to design a robust E-commerce dat
 - There should not be any inconsistency in the data. 
 - There should not be any loss of data. 
 
-### 3.  Relational Database Schema - e commerce
+### 3.  Relational Database Schema - e commerce 
+![Relational Schema_Diagram](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Relational_Schema-Screenshot.jpg)
+For more clear view, click here
+[Relational Schema Pdf](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Dbms.pdf)
+
 
 
 
