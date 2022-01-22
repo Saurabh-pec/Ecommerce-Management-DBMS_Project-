@@ -59,27 +59,19 @@ Amongst many things that an online site requires the most important is a databas
 ### 3.  Relational Database Schema - e commerce 
 ![Relational Schema_Diagram](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Relational_Schema-Screenshot.jpg)
 For more clear view, click here
-[Relational Schema Pdf](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Dbms.pdf)
+[Relational Schema Pdf](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Relational%20Database%20Schema2.pdf)
 
 ### 4. Entities and their Attributes
 
  ENTITIES | Customer | Order | OrderItem | Product | Review | Cart | Category | seller | Payment | 
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-ATTRIBUTES | Customer_CustomerId<br>Name<br>Email<br>DateOfBirth<br>Phone | OrderId<br>ShippingDate<br>OrderDate<br>OrderAmount<br>Cart_CartID | Order_OrderId (PK)<br>Product_ProductId(FK)<br>MRP<br>Quantity | productId (PK)<br> ProductName(FK)<br> sellerId<br>MRP <br>CategoryID <br>Stock | 5 | 6 | 7 | 8 |9 | 10 |
-Brand
-
- 
-
-Age| 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 
 
-
-ATTRIBUTE TYPE
-Entity Type
-
-
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
