@@ -86,12 +86,50 @@ for more clear view, click here
  **3.** Using triggers to update the no.of products as soon as the payment is made.<br>
  **4.** Trigger to update the total amount of user everytime he adds something to payment table.<br>
  **5.** Stored procedure for getting order history.<br>
- **6.** Processing an order<br>
+ **6.** Processing an order
    -  To process an order, one should check whether those items are in stock.
    -  If items are in stock, they need to be reserved so that they go in hands of those who have expressed them in wishlist/order.
    - Once ordered the available quantity must be reduced to reflect the correct value in the stock. 
    - Any items not in stock cannot be sanctioned; this requires confirmation from the seller. 
- - The customer needs to be informed as to which items are in stock (and can be shipped immediately) and which are cancelled.
+   - The customer needs to be informed as to which items are in stock (and can be shipped immediately) and which are cancelled.
+
+**7.** Check whether the specified customer exists 
+  - IF NOT EXISTS add him/her
+  - COMMIT  the info
+  - Fetch the customer id
+  - INSERT a row to Order tables
+  - If unable to do so,ROLLBACK;
+  - Fetch the new orderid in orders table
+  - INSERT row to the order table for every product ordered
+  - If adding tuples to orderitems fails ROLL BACK all tuples of products  added for and the tuple in order row
+
+**QUERY 1:** Customers to find products with highest ratings for a given category.<br>
+**QUERY 2:** Customers to filter out the products according to their brand and price.<br>
+**QUERY 3:** If a customer want to know the total price for all product present in the cart.<br>
+**QUERY 4:** Customers to find the best seller of a particular product.<br>
+
+**QUERY 5:** List the orders which are to be delivered at a particular pincode.<br>
+
+**QUERY 6:** List the product whose sale is the highest on a particular day.<br>
+
+**QUERY 7:** List the category of product which has been sold the highest on a particular day.<br>
+
+**QUERY 8:** List the customers who bought products from a particular seller the most.<br>
+
+**QUERY 9:** List all the orders whose payment mode is not CoD and yet to be delivered.<br> 
+**QUERY 10:**  List all orders of customers whose total amount is greater than 5000.
+**QUERY 11:**  If customer wants to modify the cart that is he want to delete some products from the cart.
+**QUERY 12:**  List the seller who has the highest stock of a particular product. 
+**QUERY 13:** Customers to compare the products based on their ratings and reviews.
+
+<br><br> **To get implemented part of above query and other details, you can mail me: (abhinav221sk@gmail.com)<br>**<br>
+
+#### Contributors
+[SAURABH KISHOR](https://github.com/Saurabh-pec) 
+
+
+
+
 
 
 
