@@ -122,7 +122,7 @@ for more clear view, click here
 **QUERY 12:**  List the seller who has the highest stock of a particular product. 
 **QUERY 13:** Customers to compare the products based on their ratings and reviews.
 
-<br><br> **To get implemented part of above query and other details, you can mail me: (abhinav221sk@gmail.com)<br>**<br>
+<br><br> **To get implemented part of above queries  and other details, you can mail me: (abhinav221sk@gmail.com)<br>**<br>
 
 #### Contributors
 [SAURABH KISHOR](https://github.com/Saurabh-pec) 
