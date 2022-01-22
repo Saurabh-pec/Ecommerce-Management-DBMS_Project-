@@ -16,14 +16,50 @@ MariaDB
 - Implementation
   - Creating tables
   - Inserting data
+  
 - Queries
   - Basic queries
   - PL/SQL function
   - Trigger function
+  - Stored procedures 
+  - Functions 
+  - Transactions
+
 
 ## 1. Project Description
 In this new modern era of online shopping no seller wants to be left behind and every seller  want to the shift from offline selling model to an online selling model for a rampant growth.<br>
 Therefore, as an software engineer our job is to ease the path of this transition for the seller.
 Amongst many things that an online site requires the most important is a database system. Hence in this project we are planning to design a database where small sellers can sell their product online.
 
-### 2. Functional requirement
+The Prime Objective of our database project is to design a robust E-commerce database by performing operations such as
+  -Viewing orders 
+  -Placing orders 
+  -Updating database 
+  -Reviewing products 
+  -Maintaining data consistency across tables 
+
+
+### 2. REQUIREMENTS 
+ - A Customer can see the account details and can update if required. 
+ - Customer can search the products according to the category. 
+ - Customer can add his wishlist to the cart and can see the total amount. 
+ - Customer can update the cart whenever required.
+-  Customer can choose the mode of payment.
+-  Customer can keep track of the order by seeing order status.
+-  Customer can review the products which have been purchased. 
+-  Seller can update the stock of a particular product whether it is available    or not. 
+-  Seller can keep track of total sales of his products. 
+-  Seller can know the sales on a particular day or month or year.  
+
+### 2.1 Functional Requirements
+- A Customer cannot access the Seller details and vice-versa. 
+- There should not be any inconsistency in the data. 
+- There should not be any loss of data. 
+
+### 3.  Relational Database Schema - e commerce
+
+
+
+
+
+
