@@ -1,4 +1,4 @@
-# Ecommerce-Management-DBMS_Project
+# Ecommerce_Database_Management_System-DBMS_Project
 
 As a part of our University PTU Curriculum, we made this project for Database Management Systems (DBMS)<br>
 This project contains theoretical as well as implementation in SQL.<br>
@@ -74,7 +74,7 @@ For more clear view, click here
 | Category |CategoryID(PK)<br>CategoryName<br>DESCRIPTION                                      | Simple<br>Simple<br>Simple                                        |Strong     |
 | seller   |sellerId (PK)<br>Name<br>Phone<br>Total_Sales                                      | Simple<br>Simple<br>Multivalued<br>Derived                        |Strong     |
 | Payment     |payment_id<br>Order_OrderId<br>PaymentMode<br>Customer_CustomerId<br>PaymentDate   | Simple<br>Simple<br>Simple<br>Simple<br>Simple                    |Strong     |
-|a|b|c|d|
+
 
 ### 5. ER-Diagram
 ![ER-Diagram img](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
