@@ -73,7 +73,8 @@ For more clear view, click here
 | Cart     |cartId (PK)<br>Customer_customerId(FK)<br>GrandTotal<br>ItemsTotal                 | Simple<br>Simple<br>Derived<br>Derived                            |Strong     | 
 | Category |CategoryID(PK)<br>CategoryName<br>DESCRIPTION                                      | Simple<br>Simple<br>Simple                                        |Strong     |
 | seller   |sellerId (PK)<br>Name<br>Phone<br>Total_Sales                                      | Simple<br>Simple<br>Multivalued<br>Derived                        |Strong     |
-| Payment  |payment_id<br>Order_OrderId<br>PaymentMode<br>Customer_CustomerId<br>PaymentDate   | Simple<br>Simple<br>Simple<br>Simple<br>Simple                    |Strong     |
+| Payment     |payment_id<br>Order_OrderId<br>PaymentMode<br>Customer_CustomerId<br>PaymentDate   | Simple<br>Simple<br>Simple<br>Simple<br>Simple                    |Strong     |
+|a|b|c|d|
 
 ### 5. ER-Diagram
 ![ER-Diagram img](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
