@@ -74,14 +74,28 @@ For more clear view, click here
 | Category |CategoryID(PK)<br>CategoryName<br>DESCRIPTION                                      | Simple<br>Simple<br>Simple                                        |Strong     |
 | seller   |sellerId (PK)<br>Name<br>Phone<br>Total_Sales                                      | Simple<br>Simple<br>Multivalued<br>Derived                        |Strong     |
 | Payment     |payment_id<br>Order_OrderId<br>PaymentMode<br>Customer_CustomerId<br>PaymentDate   | Simple<br>Simple<br>Simple<br>Simple<br>Simple                    |Strong     |
-|a|b|c|d|
+### 5. Entities and Relations 
+| ENTITIES |RELATION |   CARDINALITY                                          | TYPE OF PARTICIPATION|
+| ---------|:-------------:                                                                    |   -----:                                                          |-------    |
+|Customer<BR>Address| Stays At| OneToOne |    Total<BR>Partial  |
+|Customer<BR>Cart|Shops| OneToOne|Partial<BR>Total  |
+|Customer<br>Order|Places| OneToMany| Partial<BR>Total |
+|Customer <BR>Payment| Makes| OneToMany|Partial<br>Total |
+|Customer<BR>Review| Write| OneToMany|Partial<br>Total  |
+|Seller<br>Product| Sells|ManyToMany| Partial<br>Total |
+|Category<br>Product|Categorizes|OneToMany|Partial<br>Total  |
+|Cart<br>Product|Contains|ManyToMany| Partial<br>Partial |
+|Product<br>Orderltem| Includes|OneToMany|Partial<br>Total|
+|Order<br>Orderltem| Includes|OneToOne|Partial<br>Total|
+|Payment<br>Order| For|OneToOne|Total<br>Total|
 
-### 5. ER-Diagram
+
+### 6. ER-Diagram
 ![ER-Diagram img](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
 for more clear view, click here
 [ER Diagram pdf](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ECommerce.pdf)
 
-### 6. QUERIES ON THE ABOVE RELATIONAL SCHEMA
+### 7. QUERIES ON THE ABOVE RELATIONAL SCHEMA
  **1.** Stored procedure for the details of the customer.<br>
  **2.** View for getting sales by category of products.<br>
  **3.** Using triggers to update the no.of products as soon as the payment is made.<br>
