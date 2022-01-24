@@ -91,12 +91,7 @@ For more clear view, click here
 |Payment<br>Order| For|OneToOne|Total<br>Total|
 
 
-### 6. ER-Diagram
-=======
-
-
-### 5. ER-Diagram
->>>>>>> 618fe82120b4f0f563da2e8a2fc412751fedbedb
+### 6. ER-Diagram<br>
 ![ER-Diagram img](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
 for more clear view, click here
 [ER Diagram pdf](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ECommerce.pdf)
