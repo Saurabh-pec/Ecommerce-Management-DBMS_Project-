@@ -74,7 +74,6 @@ For more clear view, click here
 | Category |CategoryID(PK)<br>CategoryName<br>DESCRIPTION                                      | Simple<br>Simple<br>Simple                                        |Strong     |
 | seller   |sellerId (PK)<br>Name<br>Phone<br>Total_Sales                                      | Simple<br>Simple<br>Multivalued<br>Derived                        |Strong     |
 | Payment     |payment_id<br>Order_OrderId<br>PaymentMode<br>Customer_CustomerId<br>PaymentDate   | Simple<br>Simple<br>Simple<br>Simple<br>Simple                    |Strong     |
-<<<<<<< HEAD
 ### 5. Entities and Relations 
 | ENTITIES |RELATION |   CARDINALITY                                          | TYPE OF PARTICIPATION|
 | ---------|:-------------:                                                                    |   -----:                                                          |-------    |
