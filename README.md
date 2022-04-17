@@ -1,6 +1,6 @@
 # Ecommerce Database Management System-DBMS_Project
 
-As a part of our University PTU Curriculum, we made this project for Database Management Systems (DBMS)<br>
+As a part of our University PTU Curriculum, I made this project for Database Management Systems (DBMS)<br>
 This project contains theoretical as well as implementation in SQL.<br>
 If you liked the repo do :star: it.  
 
