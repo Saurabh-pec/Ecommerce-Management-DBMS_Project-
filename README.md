@@ -8,7 +8,7 @@ If you liked the repo do :star: it.
 
 <br>
 
-# ******************  FrontEnd  ***********************
+# *********************   FrontEnd   *************************
 <br>
 
 ### LoginPage<br>
