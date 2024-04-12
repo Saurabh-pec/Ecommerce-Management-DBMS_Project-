@@ -147,7 +147,33 @@ for more clear view, click here
 
 # FrontEnd
 <br>
-![Relational Schema_Diagram](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Relational_Schema-Screenshot.jpg)
+
+### LoginPage<br>
+![user Login](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
+
+
+### Product Page<br>
+![All Products](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
+
+
+
+
+### User Dashboard Page<br>
+![User Dashboard](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
+
+
+### Admin Dashboard<br>
+![Admin Dashboard-CRUD Operation](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
+
+
+### Cart Page<br>
+![Add to cart](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
+
+
+### Filter Page<br>
+![Filter -Search functionality](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
+
+
 
 **To get implemented part of above queries  and other details, you can mail me: (abhinav221sk@gmail.com)<br>**<br>
 
