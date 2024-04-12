@@ -1,8 +1,12 @@
 # Ecommerce Database Management System-DBMS_Project
 
 As a part of our University PTU Curriculum, I made this project for Database Management Systems (DBMS)<br>
-This project contains theoretical as well as implementation in SQL.<br>
+This project contains theoretical as well as implementation in backend-SQL and FrontEnd-ReactJs.<br>
 If you liked the repo do :star: it.  
+
+<br>
+
+# BackEnd
 
 ## Pre-requisite
 MariaDB  
@@ -137,7 +141,13 @@ for more clear view, click here
 **QUERY 12:**  List the seller who has the highest stock of a particular product. 
 **QUERY 13:** Customers to compare the products based on their ratings and reviews.
 
-<br><br> **To get implemented part of above queries  and other details, you can mail me: (abhinav221sk@gmail.com)<br>**<br>
+<br><br> 
+
+# FrontEnd
+<br>
+![Relational Schema_Diagram](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Relational_Schema-Screenshot.jpg)
+
+**To get implemented part of above queries  and other details, you can mail me: (abhinav221sk@gmail.com)<br>**<br>
 
 #### Contributors
 [SAURABH KISHOR](https://github.com/Saurabh-pec) 
