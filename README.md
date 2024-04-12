@@ -149,29 +149,28 @@ for more clear view, click here
 <br>
 
 ### LoginPage<br>
-![user Login](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
+![user Login](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/FrontEnd/Asset/Login.png?raw=true)
 
 
 ### Product Page<br>
-![All Products](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
+![All Products](https://raw.githubusercontent.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/main/FrontEnd/Asset/Product.png)
 
 
 
 
 ### User Dashboard Page<br>
-![User Dashboard](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
+![User Dashboard](https://raw.githubusercontent.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/main/FrontEnd/Asset/UserDashboard.png)
 
 
 ### Admin Dashboard<br>
-![Admin Dashboard-CRUD Operation](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
-
+![Admin Dashboard-CRUD Operation](https://raw.githubusercontent.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/main/FrontEnd/Asset/AdminDashboard.png)
 
 ### Cart Page<br>
-![Add to cart](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
+![Add to cart](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/FrontEnd/Asset/Cart.png)
 
 
 ### Filter Page<br>
-![Filter -Search functionality](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
+![Filter -Search functionality](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/FrontEnd/Asset/filter.png)
 
 
 
