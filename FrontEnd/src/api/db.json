@@ -1,0 +1,226 @@
+{
+  "Products": [
+    {
+      "id": "1001",
+      "name": "laptop",
+      "price": 80000,
+      "img": "/images/LgTv.jpg"
+    },
+    {
+      "id": "1003",
+      "name": "Tv",
+      "price": 20000,
+      "img": "/images/tv1.jpg"
+    },
+    {
+      "id": "1004",
+      "name": "laptop",
+      "price": 40000,
+      "img": "/images/Lap.jpg"
+    },
+    {
+      "id": "1005",
+      "name": "Tablet",
+      "price": 2200,
+      "img": "/images/tv1.jpg"
+    },
+    {
+      "id": "1006",
+      "name": "Mobile",
+      "price": 80000,
+      "img": "/images/htc.jpg"
+    },
+    {
+      "id": "1007",
+      "name": "Redmi-Mobile",
+      "price": 20000,
+      "img": "/images/mobile8.jpg"
+    },
+    {
+      "id": "1008",
+      "name": "Redmi-Mobile",
+      "price": 60000,
+      "img": "/images/mobile6.jpg"
+    },
+    {
+      "id": "1009",
+      "name": "Redmi-Mobile",
+      "price": 25000,
+      "img": "/images/mobile4.jpg"
+    },
+    {
+      "id": "10010",
+      "name": "Redmi-Mobile",
+      "price": 10000,
+      "img": "/images/redmipro.jpg"
+    },
+    {
+      "id": "10011",
+      "name": "Iphone",
+      "price": 40000,
+      "img": "/images/Redmi.webp"
+    },
+    {
+      "id": "10012",
+      "name": "camara",
+      "price": 2200,
+      "img": "/images/camra.jpg"
+    },
+    {
+      "id": "10013",
+      "name": "camara",
+      "price": 2200,
+      "img": "/images/camra2.jpg"
+    },
+    {
+      "id": "10014",
+      "name": "camara2",
+      "price": 28000,
+      "img": "/images/camra3.jpg"
+    },
+    {
+      "id": "10015",
+      "name": "computer",
+      "price": 2200,
+      "img": "/images/Computer.jpg"
+    },
+    {
+      "id": "10016",
+      "name": "watch",
+      "price": 6200,
+      "img": "/images/watch.jpg"
+    },
+    {
+      "id": "10017",
+      "name": "watch2",
+      "price": 7200,
+      "img": "/images/watch2.jpg"
+    },
+    {
+      "id": "10018",
+      "name": "watch3",
+      "price": 4200,
+      "img": "/images/watch3.jpg"
+    },
+    {
+      "id": "10019",
+      "name": "headPhone",
+      "price": 7200,
+      "img": "/images/headPhone.jpg"
+    },
+    {
+      "id": "10020",
+      "name": "headPhone",
+      "price": 7200,
+      "img": "/images/headPhone2.jpg"
+    },
+    {
+      "id": "10021",
+      "name": "headPhone",
+      "price": 7200,
+      "img": "/images/headPhone3.jpg"
+    }
+  ],
+  "Admin": [
+    {
+      "id": "23bd",
+      "name": "admin",
+      "email": "admin@capgemini.com",
+      "password": "123"
+    }
+  ],
+  "Users": [
+    {
+      "id": "086f",
+      "name": "saurabh",
+      "email": "sk@capgemini.com",
+      "password": "123"
+    },
+    {
+      "id": "d2f9",
+      "name": "kishor",
+      "email": "kk@capgemini.com",
+      "password": "123"
+    },
+    {
+      "id": "ae14",
+      "name": "saurabh",
+      "email": "ak@capgemini.com",
+      "password": "123"
+    }
+  ],
+  "Carts": [
+    {
+      "id": "510f",
+      "userId": "086f",
+      "cartItems": [
+        {
+          "productId": "1003",
+          "quantity": 14
+        },
+        {
+          "productId": "1008",
+          "quantity": 4
+        },
+        {
+          "productId": "1009",
+          "quantity": 3
+        },
+        {
+          "productId": "10019",
+          "quantity": 3
+        },
+        {
+          "productId": "1004",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "f6f7",
+      "userId": null,
+      "cartItems": [
+        {
+          "productId": "10016",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "Orders": [
+    {
+      "id": "ae69",
+      "userId": "086f",
+      "cartItems": [
+        {
+          "productId": "10012",
+          "quantity": 2
+        },
+        {
+          "productId": "1003",
+          "quantity": 1
+        }
+      ],
+      "cartId": "2c27"
+    },
+    {
+      "id": "24fd",
+      "userId": "086f",
+      "cartItems": [
+        {
+          "productId": "1001",
+          "quantity": 5
+        },
+        {
+          "productId": "1007",
+          "quantity": 9
+        },
+        {
+          "productId": "10010",
+          "quantity": 1
+        }
+      ],
+      "cartId": "e996"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+/* Cart.css */
+
+.cart-container {
+  margin-top: 20px;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.product-info {
+  flex: 1;
+}
+
+.product-name {
+  font-weight: bold;
+}
+
+.product-price {
+  margin-top: 5px;
+}
+
+.quantity-control {
+  display:flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 200px;
+  height: 100px;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 0 5px;
+  cursor: pointer;
+  width: 100px; /* Reduced button width */
+}
+
+.quantity {
+  padding: 0 10px;
+}
+
+.product-img img {
+  width: 80px; 
+  height: auto; 
+}
+
+.cart-item,
+.product-info,
+.quantity-control {
+  width: 80%; 
+  margin: 0 auto; 
+}
+
+/* Additional styling for total price */
+.total-price {
+  margin-top: 20px;
+  font-weight: bold;
+  color: blue; /* Set color to blue */
+}
+
+/* Cart.css */
+
+.cart-container {
+  margin-top: 20px;
+  text-align: center; /* Align content in the center */
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.product-info {
+  flex: 1;
+}
+
+.product-name {
+  font-weight: bold;
+}
+
+.product-img img {
+  max-width: 100px; /* Set maximum width for product images */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.product-price {
+  margin-top: 5px;
+}
+
+.quantity-control {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.cancel-button {
+  background-color: red;
+}
+
+.total-price {
+  margin-top: 20px;
+  font-weight: bold;
+  color: blue; /* Set color to blue */
+}
