@@ -1,4 +1,6 @@
-# Ecommerce Database Management System-DBMS_Project
+# Ecommerce Database Management System
+# <h1 style="text-align: center;">Ecommerce Database Management System</h1>
+
 
 As a part of our University PTU Curriculum, I made this project for Database Management Systems (DBMS)<br>
 This project contains theoretical as well as implementation in backend-SQL and FrontEnd-ReactJs.<br>
