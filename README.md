@@ -1,6 +1,7 @@
 
- <h1 style="text-align: center">Ecommerce Database Management System</h1>
+# Ecommerce Database Management System
 
+<h1 style="text-align: center">Ecommerce Database Management System</h1>
 
 As a part of our University PTU Curriculum, I made this project for Database Management Systems (DBMS)<br>
 This project contains theoretical as well as implementation in backend-SQL and FrontEnd-ReactJs.<br>
@@ -9,8 +10,6 @@ If you liked the repo do :star: it.
 <br>
 
 # *********************   FrontEnd   *************************
-
-
 
 Frontend implementation of an e-commerce platform built using React. It provides users with an intuitive interface to browse products, add them to the cart, and proceed to checkout. Leveraging React's component-based architecture, it offers a seamless user experience with dynamic updates and efficient state management.
 
@@ -31,12 +30,8 @@ This project aims to deliver a modern and responsive web application for e-comme
 ### Product Page<br>
 ![All Products](https://raw.githubusercontent.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/main/FrontEnd/Asset/Product.png)
 
-
-
-
 ### User Dashboard Page<br>
 ![User Dashboard](https://raw.githubusercontent.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/main/FrontEnd/Asset/UserDashboard.png)
-
 
 ### Admin Dashboard<br>
 ![Admin Dashboard-CRUD Operation](https://raw.githubusercontent.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/main/FrontEnd/Asset/AdminDashboard.png)
@@ -44,13 +39,10 @@ This project aims to deliver a modern and responsive web application for e-comme
 ### Cart Page<br>
 ![Add to cart](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/FrontEnd/Asset/Cart.png)
 
-
 ### Filter Page<br>
 ![Filter -Search functionality](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/FrontEnd/Asset/filter.png)
 
 <br>
-
-
 
 # *********************** BackEnd  **********************
 
@@ -124,6 +116,7 @@ For more clear view, click here
 | Category |CategoryID(PK)<br>CategoryName<br>DESCRIPTION                                      | Simple<br>Simple<br>Simple                                        |Strong     |
 | seller   |sellerId (PK)<br>Name<br>Phone<br>Total_Sales                                      | Simple<br>Simple<br>Multivalued<br>Derived                        |Strong     |
 | Payment     |payment_id<br>Order_OrderId<br>PaymentMode<br>Customer_CustomerId<br>PaymentDate   | Simple<br>Simple<br>Simple<br>Simple<br>Simple                    |Strong     |
+
 ### 5. Entities and Relations 
 | ENTITIES |RELATION |   CARDINALITY                                          | TYPE OF PARTICIPATION|
 | ---------|:-------------:                                                                    |   -----:                                                          |-------    |
@@ -189,16 +182,10 @@ for more clear view, click here
 
 <br><br> 
 
-
-
-
-
 **To get implemented part of above queries  and other details, you can mail me: (abhinav221sk@gmail.com)<br>**<br>
 
 #### Contributors
 [SAURABH KISHOR](https://github.com/Saurabh-pec) 
-
-
 
 
 
