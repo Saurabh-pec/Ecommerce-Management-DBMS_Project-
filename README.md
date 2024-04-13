@@ -188,7 +188,9 @@ for more clear view, click here
 [SAURABH KISHOR](https://github.com/Saurabh-pec) 
 
 ##### Want to support my coding journey? Buy me a coffee and keep the code flowing! [Buy me a Coffee!](https://www.buymeacoffee.com/saurabhkishor ).
-Thanks and I appreciate your support: https://www.buymeacoffee.com/saurabhkishor 
+Thanks and I highly appreciate your support.
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="saurabhkishor" data-color="#5F7FFF" data-emoji="❤️"  data-font="Cookie" data-text="Buy me a 'chai'" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 
 
