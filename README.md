@@ -182,7 +182,7 @@ for more clear view, click here
 
 <br><br> 
 
-**To get implemented part of above queries  and other details, you can mail me: [abhinav221sk@gmail.com](mailto:abhinav221sk@gmail.com).<br> For any personalized and expedited support, feel free to ping me on [my telegram](https://t.me/qxvjm). (please do mention subject). thanks**<br>
+**To get implemented part of above queries  and other details, you can mail me: [abhinav221sk@gmail.com](mailto:abhinav221sk@gmail.com).<br> For any personalized and expedited support, feel free to ping me on [my telegram](https://t.me/qxvjm). (please do mention subject as this repo name). thanks**<br>
 
 #### Contributors
 [SAURABH KISHOR](https://github.com/Saurabh-pec) 
